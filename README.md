@@ -28,7 +28,7 @@ em foco.
 ## Instalacao
 
 ```bash
-git clone <url-deste-repo> autoclicker
+git clone https://github.com/Felipe-Luvizotto/autoclicker.git
 cd autoclicker
 ./install.sh
 ```
